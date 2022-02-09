@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    text-align: justify;
+
+}
+h1 {
+    color: red;
+}
+hr {
+    color: yellow;
+    border:dashed 0.5rem;
+}

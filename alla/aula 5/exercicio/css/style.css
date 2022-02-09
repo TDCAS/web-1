@@ -1,0 +1,37 @@
+#titulo {
+    color:#ff0000;
+    text-align: center;
+}
+body {
+    background-color:#f1e96dc0;
+}
+div {
+    font-size: 24px;
+    margin: 3% 25%;
+}
+img {
+    margin: 5% 30%;
+}
+table{
+    margin: 25%;
+    border:solid 2.5px grey;
+
+}
+caption {
+    border:solid 2.5px grey;
+    
+
+}
+td{
+    width: 160px; 
+    
+    border:solid 2.5px grey;
+    
+}
+thead,th{
+    border: solid 2.5px grey;
+    width: 5px;
+    border-collapse:separate;
+    margin: 100px;
+}
+
