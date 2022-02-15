@@ -1,0 +1,32 @@
+h1 {
+    color: red
+}
+h3 {
+    background-color:#ff0000;
+    color: #ffffff;
+}
+h4 {
+    color:#ffffff;
+
+}
+h5 {
+    color: rgb(0,0,255)
+}
+p {
+    color:rgb(0,0,255);
+    border: solid 1pxblue;
+}
+h5 {
+    color:rgba(0,0,255,0,6);
+}
+.segundo-h1 {
+    color:blue;
+}
+#venda-h1 {
+    color:green
+}
+body {
+    font-family: 'Courier New', Courier, monospace
+
+}
+
