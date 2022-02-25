@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+.bloco-centra {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.filho-do-bloco-central-verde {
+    
+    height: 10vw;
+    width: 100%;
+    background-color: green;
+}
+.filho-do-bloco-central-cordepele {
+
+    height: 10vh;
+    width: 100%;
+    background-color: bisque;
+
+}
+/* mini blocos roxos*/
+.bloco-segundario {
+    margin: 2%;
+    height: 30%;
+    width: 25%;
+    display: block;
+    float: left;
+    align-items: center;
+}
+/* mini blocos roxos*/
+.filho-do-bloco-segundario-roxo1,.filho-do-bloco-segundario-roxo2,.filho-do-bloco-segundario-roxo3,.filho-do-bloco-segundario-roxo4,.filho-do-bloco-segundario-roxo5 {
+    height: 50px;
+    margin-bottom:2% ;
+
+    width: 100%;
+    border: 2px solid purple;
+    border-radius: 2rem;
+    background-color: purple;
+
+}
+/* block rosa*/
+
+.bloco-terciario {
+    height: 69vh;
+    width: 70%;
+    background-color: pink;
+    float: right;
+}
